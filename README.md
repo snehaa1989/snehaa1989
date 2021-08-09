@@ -23,7 +23,7 @@
   
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehaa1989&label=Profile%20views&color=0e75b6&style=flat" alt="snehaa1989" /> </p>
+
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Some facts lol..***
