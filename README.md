@@ -28,7 +28,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Some facts lol..***
 
-✔ I’m currently looking for **web development internships**<br>
+✔ I’m currently applying for **internships**<br>
 ✔ I’m currently exploring **ReactJS** & **NodeJS** and making projects<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ Ask me about anything, I am happy to help!<br>
