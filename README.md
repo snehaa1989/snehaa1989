@@ -1,6 +1,6 @@
 
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://snehaa1989.github.io/portfolio/"> <b>Sneha</b></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <b>Sneha</b></h1>
 <h3 align="center">Competitive programming | Problem solving | Web Development Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sneha-sai-knvs-25a7401a3/?originalSubdomain=in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sneha-sai-knvs" height="30" width="40" /></a>
