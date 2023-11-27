@@ -1,9 +1,7 @@
 # Hi there! 👋 😃
  
 
-### <🌹> About me </🌹>
-
-My name is [Sneha](https://snehaa1989.github.io/portfolio/) and I'm a **developer**. I'm here on GitHub to:
+I'm here on GitHub to:
 - Share my personal projects;
 - Learn more about front-end technologies;
 - Contribute to third-party projects;
