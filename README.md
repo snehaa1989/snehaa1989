@@ -3,7 +3,7 @@
 
 I'm here on GitHub to:
 - Share my personal projects;
-- Learn more about fullstack technologies;
+- Learn more about fullstack engineering and AI automation;
 - Contribute to open source projects;
 - Get inspiration and new ideas!
 
