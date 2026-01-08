@@ -3,8 +3,8 @@
 
 I'm here on GitHub to:
 - Share my personal projects;
-- Learn more about front-end technologies;
-- Contribute to third-party projects;
+- Learn more about fullstack technologies;
+- Contribute to open source projects;
 - Get inspiration and new ideas!
 
 Feel free to visit [my repositories](https://github.com/snehaa1989?tab=repositories). Doubts or suggestions, please open an **issue** or a **pull request** and let's talk!
