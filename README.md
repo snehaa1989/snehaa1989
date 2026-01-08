@@ -2,7 +2,7 @@
  
 
 I'm here on GitHub to:
-- Share my personal projects;
+- Share my personal and hackathon projects;
 - Learn more about fullstack engineering and AI automation;
 - Contribute to open source projects;
 - Get inspiration and new ideas!
