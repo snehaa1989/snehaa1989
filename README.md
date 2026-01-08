@@ -5,7 +5,7 @@ I'm here on GitHub to:
 - Share my personal and hackathon projects
 - Learn more about fullstack engineering and AI automation
 - Contribute to open source projects
-- Get inspiration and new ideas and learn new technologies!
+- Get inspiration and new ideas and explore new technologies!
 
 Feel free to visit [my repositories](https://github.com/snehaa1989?tab=repositories). Doubts or suggestions, please open an **issue** or a **pull request** and let's talk!
 
